@@ -1,0 +1,7 @@
+﻿  binaryCalculator.cpp
+E:\CIS 143\Projects\Project 4\BinaryCalculator\BinaryCalculator\binaryCalculator.cpp(56,6): warning C4101: 'decimal2': unreferenced local variable
+E:\CIS 143\Projects\Project 4\BinaryCalculator\BinaryCalculator\binaryCalculator.cpp(204,31): warning C4018: '<': signed/unsigned mismatch
+E:\CIS 143\Projects\Project 4\BinaryCalculator\BinaryCalculator\binaryCalculator.cpp(363,20): warning C4018: '<': signed/unsigned mismatch
+E:\CIS 143\Projects\Project 4\BinaryCalculator\BinaryCalculator\binaryCalculator.cpp(367,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\CIS 143\Projects\Project 4\BinaryCalculator\BinaryCalculator\binaryCalculator.cpp(721,7): warning C4101: 'isValid': unreferenced local variable
+  BinaryCalculator.vcxproj -> E:\CIS 143\Projects\Project 4\BinaryCalculator\Debug\BinaryCalculator.exe
